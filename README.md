@@ -14,6 +14,13 @@
 
 ## Professional
 
+### IBM Plex
+```
+span style="color: rgb(29, 28, 28);font-family: IBM Plex Serif, Arial, Helvetica, sans-serif;letter-spacing: -0.01em;">Beispielprojekte</span>
+```
+
+<br><br>
+
 ### Roboto Condensed
 - https://fonts.google.com/specimen/Roboto+Condensed?preview.text=BEWERBUNG&query=Roboto+Condensed
 ```html
