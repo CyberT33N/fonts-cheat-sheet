@@ -1,11 +1,29 @@
 # Fonts cheat sheet
 
+<br><br>
 
 # Headlines
 
 ## Futuristic
 
-Orbitron:
+### Audiowide
+- https://fonts.google.com/specimen/Audiowide?preview.text=BEWERBUNG&categoryFilters=Appearance:%2FTheme%2FTechno
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
+```
+```css
+.audiowide-regular {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+```
+
+<br><br>
+
+### Orbitron:
 - https://fonts.google.com/selection?preview.text=BEWERBUNG&categoryFilters=Feeling:%2FExpressive%2FFuturistic
 ```html
 <link rel="preconnect" href="https://fonts.googleapis.com">
