@@ -1,6 +1,50 @@
 # Fonts cheat sheet
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Fonts for Developer
+- https://github.com/tonsky/FiraCode  ★ **HOT** ★
+- Roboto
+- Source Code Pro
+- https://pcaro.es/p/hermit/ ★ **HOT** ★
+- https://sourcefoundry.org/hack/
+- https://input.fontbureau.com/download/
+- https://github.com/kosimst/Firicico
+- https://github.com/belluzj/fantasque-sans
+- https://www.levien.com/type/myfonts/inconsolata.html
+- https://typeof.net/Iosevka/
+- https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
+- https://www.dafont.com/dec-terminal-modern.font
+
+
+
+
+
+
+
+
 <br><br>
+<br><br>
+
+ _____________________________________________________
+ _____________________________________________________
+
+<br><br>
+<br><br>
+
+
 
 # Headlines
 
