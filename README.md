@@ -15,6 +15,9 @@
 
 
 ## Fonts for Developer
+- https://vercel.com/font ★ **HOT** ★
+
+
 - https://github.com/tonsky/FiraCode  ★ **HOT** ★
 - Roboto
 - Source Code Pro
@@ -27,6 +30,7 @@
 - https://typeof.net/Iosevka/
 - https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
 - https://www.dafont.com/dec-terminal-modern.font
+- https://github.com/0xType/0xProto
 
 
 
